@@ -11,9 +11,13 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🌱 Currently Learning **Advanced Backend (Node.js + MongoDB)**  
-- 💼 Open to **Freelance & Collaborative MERN Projects**  
-- ⚡ Fun Fact: *I love tech... and tech seems to love me back!*  
+
+- 🌱 *Currently Learning:* Advanced Backend Development with Node.js and MongoDB  
+- 💻 *Tech Stack:* MongoDB | Express.js | React.js | Node.js  
+- 🚀 *Open to Work:* Freelance & Collaborative MERN Projects  
+- 📫 *Reach Me At:* chalihassankml@gmail.com  
+- ⚡ *Fun Fact:* I love tech... and tech seems to love me back!  
+
 
 ---
 
@@ -24,14 +28,18 @@
 
 ---
 
-## 📌 Featured Projects  
-| Project | Tech Stack | Live Demo |
-|---------|------------|-----------|
-| **Bus Reservation System** | React, Node.js, MongoDB | [🔗 View](https://github.com/Ali78656/Bus-Reservation) |
-| **TravelBloom** | HTML, CSS, JS | [🔗 View](https://github.com/Ali78656/TravelBloom) |
-| **Habit Tracker App** | React.js | [🔗 View](https://github.com/Ali78656/Habit-Tracker) |
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassan-42256ali/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chalihassankml@gmail.com)
+
 
 ## 📊 GitHub Stats  
 <p align="center">
