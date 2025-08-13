@@ -4,7 +4,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Building Ideas into Reality</h3>
 
 <p align="center">
-  <a href="mailto:chalihassankml@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="chalihassankml@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://app.netlify.com/teams/ali78656/projects"><img src="https://img.shields.io/badge/Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ali-hassan-42256ali/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🌱 *Currently Learning:* Advanced Backend Development with Node.js and MongoDB  
+- 🌱 *Currently Learning:* Backend Development with Node.js and MongoDB  
 - 💻 *Tech Stack:* MongoDB | Express.js | React.js | Node.js  
 - 🚀 *Open to Work:* Freelance & Collaborative MERN Projects  
 - 📫 *Reach Me At:* chalihassankml@gmail.com  
