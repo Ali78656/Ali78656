@@ -1,8 +1,5 @@
 <!-- Modern GitHub README for Ali Hassan -->
 
-<!-- Banner -->
-![Ali Hassan Banner](https://github.com/Ali78656/Ali78656/blob/main/banner.png)
-
 <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
 <h3 align="center">🚀 MERN Stack Developer | Building Ideas into Reality</h3>
 
