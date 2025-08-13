@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="mailto:chalihassankml@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://app.netlify.com/teams/ali78656/projects"><img src="https://img.shields.io/badge/Netlify-Projects-blue?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ali-hassan-42256ali/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -18,6 +19,7 @@
 - 📫 *Reach Me At:* chalihassankml@gmail.com  
 - ⚡ *Fun Fact:* I love tech... and tech seems to love me back!  
 
+
 ---
 
 ## 💻 Tech Stack  
@@ -28,6 +30,7 @@
 ---
 
 <!-- Snake Game Repo View -->
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -38,16 +41,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassan-42256ali/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chalihassankml@gmail.com)
 
----
-
-## 📬 Contact Me  
-<p align="center">
-  <a href="https://app.netlify.com/teams/ali78656/projects" target="_blank">
-    <img src="https://img.shields.io/badge/Netlify-My%20Projects-blue?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
