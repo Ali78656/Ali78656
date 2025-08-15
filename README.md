@@ -49,7 +49,8 @@
 ---
 
 🎇GitHub Streak:
-[![](https://visitcount.itsvg.in/api?id=Ali78656&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)<br/>
 
 
 ---
