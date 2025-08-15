@@ -44,28 +44,30 @@
 
 
 
----
+---  
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Ali Hassan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Ali Hassan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Ali Hassan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Ali Hassan's Top Languages" />
 </p>
 
-
 ---
+
+
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false" alt="Ali Hassan's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=radical&hide_border=false" alt="Ali Hassan's GitHub Streak" />
 </p>
 
-
 ---
+
+
 ## 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali78656&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali78656&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
