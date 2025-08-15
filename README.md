@@ -45,11 +45,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chalihassankml@gmail.com)
 
 
-
+---
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Ali78656&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
+</p>
 
 
 
