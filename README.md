@@ -1,18 +1,14 @@
-  <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
-  <h3 align="center">🚀 MERN Stack Developer | Building Ideas into Reality</h3>
+<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
+<h3 align="center">🚀 MERN Stack Developer | Building Ideas into Reality</h3>
 
-
-  <p align="center">
-  <a href="mailto:chalihassankml@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ali-hassan-42256ali/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-👨‍💻 About Me  
+# 💫 About Me:
 - 🌱 *Currently Learning:* Advanced Backend Development with Node.js and MongoDB  
 - 💻 *Tech Stack:* MongoDB | Express.js | React.js | Node.js  
 - 🚀 *Open to Work:* Freelance & Collaborative MERN Projects  
 - 📫 *Reach Me At:* chalihassankml@gmail.com  
 - ⚡ *Fun Fact:* I love tech... and tech seems to love me back!  
+
+
 
 
 # 💻 Tech Stack:
@@ -52,11 +48,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ali78656&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
- ⚡GitHub Streak:
-  ![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)<br/>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ali78656&theme=radical&no-frame=false&no-bg=true&margin-w=4)
