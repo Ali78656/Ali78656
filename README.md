@@ -50,7 +50,7 @@
 
 🎇GitHub Streak:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=radical&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)<br/>
 
 
 ---
