@@ -5,14 +5,21 @@
 
 ---
 
-## 💫 About Me  
+
 <p align="center">
+  <a href="mailto:chalihassankml@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://app.netlify.com/teams/ali78656/projects"><img src="https://img.shields.io/badge/Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ali-hassan-42256ali/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
+## 💫 About Me  
   🌱 <b>Currently Learning:</b> Backend Development with Node.js and MongoDB <br>
   💻 <b>Tech Stack:</b> MongoDB | Express.js | React.js | Node.js <br>
   🚀 <b>Open to Work:</b> Freelance & Collaborative MERN Projects <br>
   📫 <b>Reach Me At:</b> <a href="mailto:chalihassankml@gmail.com">chalihassankml@gmail.com</a> <br>
   ⚡ <b>Fun Fact:</b> I love tech... and tech seems to love me back!
-</p>
+
 
 ---
 
@@ -87,6 +94,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ali78656&icon=4&color=11" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=Ali78656&icon=0&color=0)](https://visitcount.itsvg.in)
