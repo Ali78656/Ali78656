@@ -47,14 +47,13 @@
 
 
 ## 📊 GitHub Stats  
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=tokyonight&hide_border=true&show_icons=true" height="165"/> </p>
 
 
 ---
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali78656&theme=tokyonight&hide_border=true" alt="Ali Hassan's GitHub Streak" />
+![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)
 </p>
 
 ---
