@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)
 </p>
 
 ---
