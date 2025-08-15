@@ -53,8 +53,9 @@
 ---
 ## 🔥 GitHub Streak
 <p align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=dark&hide_border=false" alt="Ali Hassan's GitHub Streak" />
 </p>
+
 
 ---
 ## 🏆 Achievements  
