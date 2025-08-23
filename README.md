@@ -50,7 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Ali Hassan's GitHub Stats" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Ali Hassan's Top Languages" />
 </p>
@@ -68,7 +67,7 @@
 
 ## 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali78656&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali78656&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
