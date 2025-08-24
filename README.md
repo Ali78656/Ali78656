@@ -19,7 +19,6 @@
 - 📫 Reach Me At: chalihassankml@gmail.com  
 - ⚡ Fun Fact: I love tech... and tech seems to love me back!  
 
-
 ---
 
 ## 💻 Tech Stack  
@@ -30,33 +29,31 @@
 ---
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassan-42256ali/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chalihassankml@gmail.com)
 
+---
 
-
----  
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Ali Hassan's GitHub Stats" />
 </p>
 
+---
 
+## 📊 Top Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Ali Hassan's Top Languages" />
 </p>
 
 ---
-
 
 ## 🔥 GitHub Streak
 <p align="center">
@@ -65,10 +62,9 @@
 
 ---
 
-
 ## 🏆 Achievements  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ali78656&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali78656&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -79,4 +75,5 @@
 </p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Ali78656&icon=0&color=0)](https://visitcount.itsvg.in)
