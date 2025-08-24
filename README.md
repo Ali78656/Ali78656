@@ -78,13 +78,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali78656&theme=radical" alt="Profile Summary" />
 </p>
 
-<!-- 🔥 Fallback: GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
-
 ---
 
 ## ✍ Quote for You  
