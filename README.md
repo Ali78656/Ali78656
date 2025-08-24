@@ -67,9 +67,11 @@
 
 
 ## 🏆 Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali78656&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ---
 
