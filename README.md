@@ -7,6 +7,7 @@
   <a href="mailto:chalihassankml@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://app.netlify.com/teams/ali78656/projects"><img src="https://img.shields.io/badge/Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ali-hassan-42256ali/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_UPWORK_PROFILE_LINK"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
 ---
