@@ -18,7 +18,7 @@
 - 💻 Tech Stack: MongoDB | Express.js | React.js | Node.js  
 - 🚀 Actively Freelancing on Upwork & Open to Collaborative MERN Projects 
 - 📫 Contact Me: chalihassankml@gmail.com  
-- ⚡ Fun Fact: I love tech... and tech seems to love me back!  
+- ⚡ Fun Fact: Passionate about solving problems through technology and continuous learning  
 
 
 ---
