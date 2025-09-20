@@ -25,7 +25,9 @@
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vercel,netlify,cpp,ejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vercel,netlify,cpp" />
+  <img src="https://upload.wikimedia.org/commons/6/64/Expressjs.png" height="48" alt="EJS" />
+  <img src="https://upload.wikimedia.org/commons/thumb/f/f4/Upwork_Logo.svg/2560px-Upwork_Logo.svg.png" height="48" alt="Upwork" />
 </p>
 
 ---
