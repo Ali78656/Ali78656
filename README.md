@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me  
 
 - 🌱 Currently Expanding Skills in Backend Development with Node.js & MongoDB   
-- 💻 Tech Stack: MongoDB | Express.js | React.js | Node.js  
+- 💻 Proficient in the MERN Stack: MongoDB | Express.js | React.js | Node.js  
 - 🚀 Actively Freelancing on Upwork & Open to Collaborative MERN Projects 
 - 📫 Contact Me: chalihassankml@gmail.com  
 - ⚡ Fun Fact: Passionate about solving problems through technology and continuous learning  
