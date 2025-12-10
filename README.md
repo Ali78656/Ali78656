@@ -20,7 +20,6 @@
 - 📫 Reach me at: **chalihassankml@gmail.com**  
 - 💕 Fun Fact: Passionate about solving problems through technology and continuous learning  
 
-
 ---
 
 ## 💻 Tech Stack  
@@ -38,26 +37,22 @@
 
 ---
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassan-42256ali/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chalihassankml@gmail.com)
 
+---
 
-
----  
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Ali Hassan's GitHub Stats" />
+  <img src="https://github-readme-stats-eta-one-45.vercel.app/api?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Ali Hassan's GitHub Stats" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Ali Hassan's Top Languages" />
+  <img src="https://github-readme-stats-eta-one-45.vercel.app/api/top-langs/?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Ali Hassan's Top Languages" />
 </p>
 
 ---
-
 
 ## 🔥 GitHub Streak
 <p align="center">
@@ -66,10 +61,8 @@
 
 ---
 
-
 ## 🏆 Achievements  
 
-<!-- 🎖 GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ali78656&theme=radical&no-frame=false&no-bg=true&margin-w=4" 
        alt="GitHub Trophies" />
