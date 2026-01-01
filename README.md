@@ -37,35 +37,29 @@
 </div>
 
 ---
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassan-42256ali/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chalihassankml@gmail.com)
 
-
-
 ---  
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Ali Hassan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali78656&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
-
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Ali Hassan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali78656&layout=compact&theme=radical" />
 </p>
 
----
 
+---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ali78656&theme=radical&hide_border=false" alt="Ali Hassan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ali78656&theme=radical&hide_border=false" />
 </p>
 
 ---
-
 
 ## 🏆 Achievements  
 
